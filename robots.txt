@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /lab/
+Allow: /css/
+Allow: /js/
+Allow: /jpg/
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://anhkhoi0208.github.io/DH52300901/sitemap.xml
