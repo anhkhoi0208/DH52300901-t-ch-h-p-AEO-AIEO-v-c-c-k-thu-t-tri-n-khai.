@@ -26,4 +26,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://anhkhoi0208.github.io/DH52300901/sitemap.xml
+Sitemap: https://anhkhoi0208.github.io/DH52300901-t-ch-h-p-AEO-AIEO-v-c-c-k-thu-t-tri-n-khai./sitemap.xml
